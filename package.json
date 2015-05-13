@@ -1,7 +1,7 @@
 {
-  "name": "aphrodite",
+  "name": "manager",
   "version": "0.0.1",
-  "homepage": "https://github.com/coding-house-apr2015/aphrodite",
+  "homepage": "https://github.com/coding-house-apr2015/manager",
   "author": "Chyld Medford <chyld.medford@gmail.com>",
   "license": "BSD",
   "engines": {
